@@ -16,6 +16,7 @@ Podfile
 Functional
 
 	Background recording
+	Support horizontal vertical recording
 	GPUImage Beauty
 	H264 Hard coding
 	AAC Hard coding
