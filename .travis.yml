@@ -4,4 +4,4 @@ xcode_workspace: LFLiveKit.xcworkspace
 xcode_scheme: LFLiveKit
 
 script:
-- xctool -workspace LFLiveKit.xcworkspace -scheme LFLiveKit
+- xctool -workspace LFLiveKit.xcworkspace -scheme 'LFLiveKit' -configuration Release -sdk iphonesimulator -arch i386 build
