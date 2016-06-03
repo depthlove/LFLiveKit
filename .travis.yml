@@ -4,4 +4,4 @@ xcode_workspace: LFLiveKit.xcworkspace
 xcode_scheme: LFLiveKit
 
 script:
-- xctool -workspace LFLiveKit.xcworkspace -scheme LFLiveKit build test CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO
+- xctool -workspace LFLiveKit.xcworkspace -scheme LFLiveKit
