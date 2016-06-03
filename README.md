@@ -1,5 +1,6 @@
 
 [![Build Status](https://travis-ci.org/chenliming777/LFLiveKit.svg)](https://travis-ci.org/chenliming777/LFLiveKit)
+[![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://raw.githubusercontent.com/chenliming777/LFLiveKit/master/LICENSE)&nbsp;
 
 LFLiveKit
 
