@@ -1,6 +1,7 @@
 
-[![Build Status](https://travis-ci.org/chenliming777/LFLiveKit.svg)](https://travis-ci.org/chenliming777/LFLiveKit)
+[![Build Status](https://travis-ci.org/chenliming777/LFLiveKit.svg)](https://travis-ci.org/chenliming777/LFLiveKit)&nbsp;
 [![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://raw.githubusercontent.com/chenliming777/LFLiveKit/master/LICENSE)&nbsp;
+[![CocoaPods](http://img.shields.io/cocoapods/v/LFLiveKit.svg?style=flat)](http://cocoapods.org/?q=LFLiveKit)&nbsp;
 
 LFLiveKit
 
