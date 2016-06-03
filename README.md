@@ -4,6 +4,7 @@
 [![CocoaPods](http://img.shields.io/cocoapods/v/LFLiveKit.svg?style=flat)](http://cocoapods.org/?q=LFLiveKit)&nbsp;
 [![Support](https://img.shields.io/badge/support-ios8%2B-orange.svg)](https://www.apple.com/nl/ios/)&nbsp;
 
+[![platform](https://img.shields.io/badge/platform-ios-ff69b4.svg)]
 
 LFLiveKit
 
